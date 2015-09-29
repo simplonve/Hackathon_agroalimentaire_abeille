@@ -1,0 +1,15 @@
+.carte {
+	width:80%;
+	height: 100%;
+	margin-top: 10%;
+	margin-left: 10%;
+}
+.hackaton {
+	font-size: 3em;
+	margin-left: 30%;
+}
+.quizz {
+	font-size: 3em;
+	margin-left: 30%;
+	margin-top: -10%;
+}
